@@ -17,6 +17,8 @@ sites:
     url: https://www.gleistein.com
   - name: relaunch.gleistein.com
     url: https://relaunch.gleistein.com
+    headers:
+      - "$RELAUNCH_GLEISTEIN_COM_AUTH"
 
 assignees:
   - dirx
