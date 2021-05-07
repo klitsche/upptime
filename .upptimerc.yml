@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: klitsche.de
-    url: https:/klitsche.de
+    url: https://klitsche.de
   - name: wurfscheibe.de
     url: https://wurfscheibe.de
   - name: dataloo.de
