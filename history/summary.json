@@ -76,9 +76,9 @@
     "url": "https://derkundschafter.de",
     "icon": "https://favicons.githubusercontent.com/derkundschafter.de",
     "slug": "derkundschafter-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 1742,
     "timeMonth": 1756,
     "timeYear": 1756,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-26": 0
+    }
   },
   {
     "name": "gleistein.com",
