@@ -44,9 +44,9 @@
     "url": "https://dataloo.de",
     "icon": "https://favicons.githubusercontent.com/dataloo.de",
     "slug": "dataloo-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,7 +55,9 @@
     "timeWeek": 888,
     "timeMonth": 929,
     "timeYear": 966,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-05": 0
+    }
   },
   {
     "name": "tschk.de",
@@ -119,11 +121,11 @@
     "icon": "https://favicons.githubusercontent.com/relaunch.gleistein.com",
     "slug": "relaunch-gleistein-com",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.84%",
     "time": 1166,
     "timeDay": 1010,
     "timeWeek": 1047,
@@ -135,8 +137,7 @@
       "2021-08-05": 132,
       "2021-07-27": 17,
       "2021-07-11": 176,
-      "2021-07-10": 38,
-      "2021-06-16": 5,
+      "2021-07-10": 18,
       "2021-06-15": 35,
       "2021-05-07": 4
     }
