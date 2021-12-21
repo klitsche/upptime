@@ -14,11 +14,7 @@ sites:
   - name: derkundschafter.de
     url: https://derkundschafter.de
   - name: gleistein.com
-    url: https://www.gleistein.com
-  - name: relaunch.gleistein.com
-    url: https://relaunch.gleistein.com
-    headers:
-      - "$RELAUNCH_GLEISTEIN_COM_AUTH"
+    url: https://gleistein.com
 
 assignees:
   - dirx
