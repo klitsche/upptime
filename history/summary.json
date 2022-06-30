@@ -22,9 +22,9 @@
     "url": "https://wurfscheibe.de",
     "icon": "https://favicons.githubusercontent.com/wurfscheibe.de",
     "slug": "wurfscheibe-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.40%",
@@ -34,6 +34,7 @@
     "timeMonth": 786,
     "timeYear": 796,
     "dailyMinutesDown": {
+      "2022-06-30": 0,
       "2021-07-20": 1223,
       "2021-07-19": 1440,
       "2021-07-18": 483
@@ -62,9 +63,9 @@
     "url": "https://tschk.de",
     "icon": "https://favicons.githubusercontent.com/tschk.de",
     "slug": "tschk-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,7 +74,9 @@
     "timeWeek": 843,
     "timeMonth": 901,
     "timeYear": 943,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-30": 0
+    }
   },
   {
     "name": "derkundschafter.de",
