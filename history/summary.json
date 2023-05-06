@@ -4,9 +4,9 @@
     "url": "https://klitsche.de",
     "icon": "https://icons.duckduckgo.com/ip3/klitsche.de.ico",
     "slug": "klitsche-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 938,
     "timeYear": 867,
     "dailyMinutesDown": {
+      "2023-05-06": 0,
       "2023-01-25": 27
     }
   },
