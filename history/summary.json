@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 867,
-    "timeDay": 1105,
-    "timeWeek": 994,
-    "timeMonth": 844,
-    "timeYear": 873,
+    "time": 868,
+    "timeDay": 1096,
+    "timeWeek": 986,
+    "timeMonth": 851,
+    "timeYear": 874,
     "dailyMinutesDown": {
       "2023-01-25": 27
     }
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/wurfscheibe.de.ico",
     "slug": "wurfscheibe-de",
     "status": "up",
-    "uptime": "96.62%",
+    "uptime": "96.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.62%",
     "time": 778,
-    "timeDay": 1002,
-    "timeWeek": 841,
-    "timeMonth": 762,
+    "timeDay": 858,
+    "timeWeek": 828,
+    "timeMonth": 766,
     "timeYear": 772,
     "dailyMinutesDown": {
       "2023-07-14": 1157,
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 956,
-    "timeDay": 1275,
-    "timeWeek": 1070,
-    "timeMonth": 938,
+    "timeDay": 941,
+    "timeWeek": 1025,
+    "timeMonth": 937,
     "timeYear": 948,
     "dailyMinutesDown": {
       "2023-05-27": 57,
@@ -90,9 +90,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.65%",
     "time": 907,
-    "timeDay": 1204,
-    "timeWeek": 1025,
-    "timeMonth": 883,
+    "timeDay": 1016,
+    "timeWeek": 997,
+    "timeMonth": 884,
     "timeYear": 903,
     "dailyMinutesDown": {
       "2023-07-14": 970,
@@ -128,9 +128,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1982,
-    "timeDay": 2089,
-    "timeWeek": 1998,
-    "timeMonth": 1924,
+    "timeDay": 1942,
+    "timeWeek": 1944,
+    "timeMonth": 1915,
     "timeYear": 1996,
     "dailyMinutesDown": {
       "2023-07-10": 17,
@@ -152,16 +152,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 874,
-    "timeDay": 1160,
-    "timeWeek": 2079,
+    "timeDay": 901,
+    "timeWeek": 2074,
     "timeMonth": 1122,
     "timeYear": 792,
     "dailyMinutesDown": {
       "2023-05-24": 24,
       "2023-03-15": 48,
       "2023-01-25": 90,
-      "2022-08-24": 31,
-      "2022-08-23": 23
+      "2022-08-24": 31
     }
   }
 ]
