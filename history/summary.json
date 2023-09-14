@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 866,
-    "timeDay": 1187,
-    "timeWeek": 857,
-    "timeMonth": 892,
-    "timeYear": 876,
+    "timeDay": 706,
+    "timeWeek": 836,
+    "timeMonth": 880,
+    "timeYear": 875,
     "dailyMinutesDown": {
       "2023-01-25": 27
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.62%",
     "time": 777,
-    "timeDay": 1100,
-    "timeWeek": 782,
-    "timeMonth": 800,
+    "timeDay": 703,
+    "timeWeek": 779,
+    "timeMonth": 790,
     "timeYear": 773,
     "dailyMinutesDown": {
       "2023-07-14": 1157,
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 956,
-    "timeDay": 1209,
-    "timeWeek": 925,
-    "timeMonth": 973,
+    "timeDay": 773,
+    "timeWeek": 899,
+    "timeMonth": 961,
     "timeYear": 950,
     "dailyMinutesDown": {
       "2023-05-27": 57,
@@ -90,9 +90,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.65%",
     "time": 904,
-    "timeDay": 1148,
-    "timeWeek": 903,
-    "timeMonth": 924,
+    "timeDay": 802,
+    "timeWeek": 897,
+    "timeMonth": 911,
     "timeYear": 904,
     "dailyMinutesDown": {
       "2023-07-14": 970,
@@ -127,17 +127,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1979,
-    "timeDay": 2298,
-    "timeWeek": 1905,
-    "timeMonth": 1926,
+    "time": 1978,
+    "timeDay": 1687,
+    "timeWeek": 1877,
+    "timeMonth": 1902,
     "timeYear": 2000,
     "dailyMinutesDown": {
       "2023-07-10": 17,
       "2023-06-21": 22,
       "2023-05-11": 15,
-      "2022-10-01": 20,
-      "2022-09-14": 78
+      "2022-10-01": 20
     }
   },
   {
@@ -152,9 +151,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 871,
-    "timeDay": 1184,
-    "timeWeek": 773,
-    "timeMonth": 1162,
+    "timeDay": 594,
+    "timeWeek": 753,
+    "timeMonth": 1151,
     "timeYear": 794,
     "dailyMinutesDown": {
       "2023-05-24": 24,
