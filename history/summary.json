@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 864,
-    "timeDay": 705,
-    "timeWeek": 793,
-    "timeMonth": 847,
+    "timeDay": 1141,
+    "timeWeek": 852,
+    "timeMonth": 851,
     "timeYear": 878,
     "dailyMinutesDown": {
       "2023-01-25": 27
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.62%",
-    "time": 774,
-    "timeDay": 634,
-    "timeWeek": 721,
-    "timeMonth": 776,
-    "timeYear": 773,
+    "time": 775,
+    "timeDay": 954,
+    "timeWeek": 768,
+    "timeMonth": 777,
+    "timeYear": 774,
     "dailyMinutesDown": {
       "2023-07-14": 1157,
       "2023-07-13": 1440,
@@ -53,8 +53,7 @@
       "2022-10-12": 1440,
       "2022-10-11": 1440,
       "2022-10-10": 1440,
-      "2022-10-09": 1440,
-      "2022-10-08": 275
+      "2022-10-09": 1440
     }
   },
   {
@@ -69,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 953,
-    "timeDay": 683,
-    "timeWeek": 853,
-    "timeMonth": 915,
+    "timeDay": 1119,
+    "timeWeek": 888,
+    "timeMonth": 917,
     "timeYear": 946,
     "dailyMinutesDown": {
       "2023-05-27": 57,
@@ -84,15 +83,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tschk.de.ico",
     "slug": "tschk-de",
     "status": "up",
-    "uptime": "97.06%",
+    "uptime": "97.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.65%",
-    "time": 901,
-    "timeDay": 785,
-    "timeWeek": 898,
-    "timeMonth": 902,
+    "time": 900,
+    "timeDay": 1087,
+    "timeWeek": 942,
+    "timeMonth": 896,
     "timeYear": 907,
     "dailyMinutesDown": {
       "2023-07-14": 970,
@@ -112,8 +111,7 @@
       "2022-10-12": 1440,
       "2022-10-11": 1440,
       "2022-10-10": 1440,
-      "2022-10-09": 1440,
-      "2022-10-08": 275
+      "2022-10-09": 1440
     }
   },
   {
@@ -127,10 +125,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1969,
-    "timeDay": 1641,
-    "timeWeek": 1761,
-    "timeMonth": 1858,
+    "time": 1970,
+    "timeDay": 2207,
+    "timeWeek": 1839,
+    "timeMonth": 1852,
     "timeYear": 2001,
     "dailyMinutesDown": {
       "2023-07-10": 17,
@@ -150,9 +148,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 822,
-    "timeDay": 608,
-    "timeWeek": 727,
-    "timeMonth": 781,
+    "timeDay": 999,
+    "timeWeek": 786,
+    "timeMonth": 779,
     "timeYear": 797,
     "dailyMinutesDown": {
       "2023-05-24": 24,
