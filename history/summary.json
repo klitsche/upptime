@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 863,
-    "timeDay": 1018,
-    "timeWeek": 871,
-    "timeMonth": 863,
-    "timeYear": 879,
+    "timeDay": 726,
+    "timeWeek": 874,
+    "timeMonth": 865,
+    "timeYear": 878,
     "dailyMinutesDown": {
       "2023-01-25": 27
     }
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/wurfscheibe.de.ico",
     "slug": "wurfscheibe-de",
     "status": "up",
-    "uptime": "96.81%",
+    "uptime": "96.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.23%",
+    "uptimeYear": "96.50%",
     "time": 775,
-    "timeDay": 1034,
-    "timeWeek": 806,
-    "timeMonth": 792,
+    "timeDay": 663,
+    "timeWeek": 792,
+    "timeMonth": 793,
     "timeYear": 774,
     "dailyMinutesDown": {
       "2023-07-14": 1157,
@@ -49,8 +49,7 @@
       "2022-10-16": 736,
       "2022-10-15": 1440,
       "2022-10-14": 1440,
-      "2022-10-13": 1440,
-      "2022-10-12": 1440
+      "2022-10-13": 1440
     }
   },
   {
@@ -64,10 +63,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 952,
-    "timeDay": 1056,
-    "timeWeek": 912,
-    "timeMonth": 927,
+    "time": 951,
+    "timeDay": 864,
+    "timeWeek": 911,
+    "timeMonth": 931,
     "timeYear": 946,
     "dailyMinutesDown": {
       "2023-05-27": 57,
@@ -84,10 +83,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.26%",
+    "uptimeYear": "96.54%",
     "time": 900,
-    "timeDay": 970,
-    "timeWeek": 870,
+    "timeDay": 752,
+    "timeWeek": 879,
     "timeMonth": 907,
     "timeYear": 907,
     "dailyMinutesDown": {
@@ -104,8 +103,7 @@
       "2022-10-16": 736,
       "2022-10-15": 1440,
       "2022-10-14": 1440,
-      "2022-10-13": 1440,
-      "2022-10-12": 1440
+      "2022-10-13": 1440
     }
   },
   {
@@ -120,10 +118,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1970,
-    "timeDay": 2179,
-    "timeWeek": 1855,
+    "timeDay": 1650,
+    "timeWeek": 1862,
     "timeMonth": 1869,
-    "timeYear": 2003,
+    "timeYear": 2002,
     "dailyMinutesDown": {
       "2023-07-10": 17,
       "2023-06-21": 22,
@@ -142,10 +140,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 822,
-    "timeDay": 947,
-    "timeWeek": 763,
-    "timeMonth": 791,
-    "timeYear": 798,
+    "timeDay": 590,
+    "timeWeek": 764,
+    "timeMonth": 793,
+    "timeYear": 797,
     "dailyMinutesDown": {
       "2023-05-24": 24,
       "2023-03-15": 48,
