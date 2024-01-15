@@ -4,19 +4,20 @@
     "url": "https://klitsche.de",
     "icon": "https://icons.duckduckgo.com/ip3/klitsche.de.ico",
     "slug": "klitsche-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 782,
-    "timeDay": 256,
-    "timeWeek": 240,
-    "timeMonth": 262,
-    "timeYear": 764,
+    "time": 780,
+    "timeDay": 270,
+    "timeWeek": 245,
+    "timeMonth": 263,
+    "timeYear": 763,
     "dailyMinutesDown": {
-      "2024-01-14": 0,
+      "2024-01-15": 0,
+      "2024-01-14": 12,
       "2023-01-25": 27
     }
   },
@@ -44,8 +45,7 @@
       "2023-01-19": 1440,
       "2023-01-18": 1440,
       "2023-01-17": 1440,
-      "2023-01-16": 1440,
-      "2023-01-15": 1440
+      "2023-01-16": 1440
     }
   },
   {
@@ -78,7 +78,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.90%",
+    "uptimeYear": "97.91%",
     "time": 904,
     "timeDay": 747,
     "timeWeek": 854,
@@ -92,8 +92,7 @@
       "2023-01-19": 1440,
       "2023-01-18": 1440,
       "2023-01-17": 1440,
-      "2023-01-16": 1440,
-      "2023-01-15": 1440
+      "2023-01-16": 1440
     }
   },
   {
