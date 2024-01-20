@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 777,
-    "timeDay": 385,
-    "timeWeek": 302,
-    "timeMonth": 266,
-    "timeYear": 755,
+    "time": 776,
+    "timeDay": 301,
+    "timeWeek": 297,
+    "timeMonth": 269,
+    "timeYear": 753,
     "dailyMinutesDown": {
       "2023-01-25": 27
     }
@@ -29,17 +29,16 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.98%",
-    "time": 778,
-    "timeDay": 1022,
-    "timeWeek": 887,
-    "timeMonth": 775,
+    "uptimeYear": "99.25%",
+    "time": 777,
+    "timeDay": 697,
+    "timeWeek": 853,
+    "timeMonth": 777,
     "timeYear": 780,
     "dailyMinutesDown": {
       "2023-07-14": 1157,
       "2023-07-13": 1440,
-      "2023-07-12": 270,
-      "2023-01-20": 1123
+      "2023-07-12": 270
     }
   },
   {
@@ -53,10 +52,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 948,
-    "timeDay": 1188,
-    "timeWeek": 974,
-    "timeMonth": 952,
+    "time": 947,
+    "timeDay": 863,
+    "timeWeek": 956,
+    "timeMonth": 956,
     "timeYear": 953,
     "dailyMinutesDown": {
       "2023-05-27": 57
@@ -72,17 +71,16 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.01%",
-    "time": 906,
-    "timeDay": 1307,
-    "timeWeek": 974,
-    "timeMonth": 916,
-    "timeYear": 916,
+    "uptimeYear": "99.29%",
+    "time": 905,
+    "timeDay": 733,
+    "timeWeek": 948,
+    "timeMonth": 914,
+    "timeYear": 915,
     "dailyMinutesDown": {
       "2023-07-14": 970,
       "2023-07-13": 1440,
-      "2023-07-12": 270,
-      "2023-01-20": 1123
+      "2023-07-12": 270
     }
   },
   {
@@ -96,11 +94,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1886,
-    "timeDay": 1516,
-    "timeWeek": 1253,
-    "timeMonth": 1182,
-    "timeYear": 1888,
+    "time": 1885,
+    "timeDay": 1086,
+    "timeWeek": 1211,
+    "timeMonth": 1189,
+    "timeYear": 1885,
     "dailyMinutesDown": {
       "2023-07-10": 17,
       "2023-06-21": 22,
@@ -113,15 +111,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gleistein.com.ico",
     "slug": "gleistein-com",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 790,
-    "timeDay": 973,
-    "timeWeek": 819,
-    "timeMonth": 775,
+    "time": 789,
+    "timeDay": 620,
+    "timeWeek": 783,
+    "timeMonth": 774,
     "timeYear": 802,
     "dailyMinutesDown": {
       "2023-05-24": 24,
