@@ -22,9 +22,9 @@
     "url": "https://wurfscheibe.de",
     "icon": "https://icons.duckduckgo.com/ip3/wurfscheibe.de.ico",
     "slug": "wurfscheibe-de",
-    "status": "up",
+    "status": "down",
     "uptime": "97.65%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 660,
     "timeMonth": 738,
     "timeYear": 782,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-22": 0
+    }
   },
   {
     "name": "dataloo.de",
@@ -65,10 +67,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/tschk.de.ico",
     "slug": "tschk-de",
     "status": "down",
-    "uptime": "97.85%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptime": "97.84%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 908,
     "timeDay": 857,
@@ -76,7 +78,7 @@
     "timeMonth": 857,
     "timeYear": 899,
     "dailyMinutesDown": {
-      "2024-08-22": 0
+      "2024-08-22": 13
     }
   },
   {
