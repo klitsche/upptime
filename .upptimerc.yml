@@ -15,6 +15,10 @@ sites:
     url: https://derkundschafter.de
   - name: gleistein.com
     url: https://gleistein.com
+  - name: uberwach.de
+    url: https://uberwach.de
+  - name: falsch-wählen.de
+    url: https://xn--falsch-whlen-ncb.de
 
 assignees:
   - dirx
