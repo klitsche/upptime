@@ -1,7 +1,7 @@
 url: https://uberwach.de
-status: up
-code: 200
-responseTime: 328
-lastUpdated: 2025-04-27T23:22:12.693Z
+status: down
+code: 500
+responseTime: 174
+lastUpdated: 2025-04-28T23:21:17.453Z
 startTime: 2024-10-27T15:09:32.436Z
 generator: Upptime <https://github.com/upptime/upptime>
