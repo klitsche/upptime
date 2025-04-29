@@ -168,8 +168,7 @@
       "2024-10-24": 32,
       "2024-10-23": 16,
       "2024-10-15": 33,
-      "2024-10-03": 35,
-      "2024-04-29": 48
+      "2024-10-03": 35
     }
   },
   {
@@ -205,18 +204,16 @@
     "slug": "uberwach-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 255,
     "timeDay": 231,
     "timeWeek": 278,
     "timeMonth": 339,
     "timeYear": 255,
-    "dailyMinutesDown": {
-      "2025-04-28": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "falsch-wählen.de",
