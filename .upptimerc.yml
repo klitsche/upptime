@@ -20,7 +20,7 @@ sites:
   - name: falsch-wählen.de
     url: https://xn--falsch-whlen-ncb.de
   - name: reinhold-adler.de
-    url: https://reinhold-adler
+    url: https://reinhold-adler.de
 
 assignees:
   - dirx
