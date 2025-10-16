@@ -170,19 +170,19 @@
     "url": "https://uberwach.de",
     "icon": "https://icons.duckduckgo.com/ip3/uberwach.de.ico",
     "slug": "uberwach-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 271,
-    "timeDay": 228,
-    "timeWeek": 250,
-    "timeMonth": 261,
-    "timeYear": 271,
+    "time": 272,
+    "timeDay": 332,
+    "timeWeek": 274,
+    "timeMonth": 266,
+    "timeYear": 272,
     "dailyMinutesDown": {
-      "2025-10-16": 1
+      "2025-10-16": 13
     }
   },
   {
