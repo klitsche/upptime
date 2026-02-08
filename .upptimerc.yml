@@ -5,22 +5,36 @@ repo: upptime # The name of this repository
 sites:
   - name: klitsche.de
     url: https://klitsche.de
+    type: globalping
+    location: germany
   - name: wurfscheibe.de
     url: https://wurfscheibe.de
+    type: globalping
+    location: germany
   - name: dataloo.de
     url: https://dataloo.de
   - name: tschk.de
     url: https://tschk.de
+    type: globalping
+    location: germany
   - name: derkundschafter.de
     url: https://derkundschafter.de
+    type: globalping
+    location: germany
   - name: gleistein.com
     url: https://gleistein.com
+    type: globalping
+    location: germany
   - name: uberwach.de
     url: https://uberwach.de
   - name: falsch-wählen.de
     url: https://xn--falsch-whlen-ncb.de
+    type: globalping
+    location: germany
   - name: reinhold-adler.de
     url: https://reinhold-adler.de
+    type: globalping
+    location: germany
 
 assignees:
   - dirx
