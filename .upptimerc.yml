@@ -13,6 +13,8 @@ sites:
     location: germany
   - name: dataloo.de
     url: https://dataloo.de
+    type: globalping
+    location: germany
   - name: tschk.de
     url: https://tschk.de
     type: globalping
@@ -27,6 +29,8 @@ sites:
     location: germany
   - name: uberwach.de
     url: https://uberwach.de
+    type: globalping
+    location: germany
   - name: falsch-wählen.de
     url: https://xn--falsch-whlen-ncb.de
     type: globalping
