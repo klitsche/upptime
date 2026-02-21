@@ -6,39 +6,39 @@ sites:
   - name: klitsche.de
     url: https://klitsche.de
     type: globalping
-    location: germany
+    location: dirx
   - name: wurfscheibe.de
     url: https://wurfscheibe.de
     type: globalping
-    location: germany
+    location: dirx
   - name: dataloo.de
     url: https://dataloo.de
     type: globalping
-    location: germany
+    location: dirx
   - name: tschk.de
     url: https://tschk.de
     type: globalping
-    location: germany
+    location: dirx
   - name: derkundschafter.de
     url: https://derkundschafter.de
     type: globalping
-    location: germany
+    location: dirx
   - name: gleistein.com
     url: https://gleistein.com
     type: globalping
-    location: germany
+    location: dirx
   - name: uberwach.de
     url: https://uberwach.de
     type: globalping
-    location: germany
+    location: dirx
   - name: falsch-wählen.de
     url: https://xn--falsch-whlen-ncb.de
     type: globalping
-    location: germany
+    location: dirx
   - name: reinhold-adler.de
     url: https://reinhold-adler.de
     type: globalping
-    location: germany
+    location: dirx
 
 assignees:
   - dirx
