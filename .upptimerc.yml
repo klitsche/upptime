@@ -2,6 +2,9 @@
 owner: klitsche # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
+user-agent: klitsche-upptime
+delay: 2000
+
 sites:
   - name: klitsche.de
     url: https://klitsche.de
