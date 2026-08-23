@@ -13,7 +13,7 @@
     "time": 256,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 177,
+    "timeMonth": 173,
     "timeYear": 267,
     "dailyMinutesDown": {
       "2026-02-14": 36,
@@ -68,8 +68,8 @@
     "time": 426,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 128,
-    "timeYear": 378,
+    "timeMonth": 131,
+    "timeYear": 377,
     "dailyMinutesDown": {
       "2026-02-14": 36,
       "2026-02-16": 40,
@@ -112,8 +112,8 @@
     "time": 679,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 142,
-    "timeYear": 605,
+    "timeMonth": 144,
+    "timeYear": 604,
     "dailyMinutesDown": {
       "2025-10-05": 25,
       "2025-10-14": 54,
@@ -152,8 +152,8 @@
     "time": 582,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 113,
-    "timeYear": 505,
+    "timeMonth": 112,
+    "timeYear": 503,
     "dailyMinutesDown": {
       "2025-10-05": 1298,
       "2025-10-04": 1440,
@@ -192,7 +192,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 76,
-    "timeYear": 657,
+    "timeYear": 654,
     "dailyMinutesDown": {
       "2025-10-22": 44,
       "2025-12-11": 45,
@@ -235,8 +235,8 @@
     "time": 826,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 128,
-    "timeYear": 701,
+    "timeMonth": 116,
+    "timeYear": 699,
     "dailyMinutesDown": {
       "2025-10-28": 29,
       "2025-12-02": 29,
@@ -279,8 +279,8 @@
     "time": 235,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 106,
-    "timeYear": 212,
+    "timeMonth": 107,
+    "timeYear": 211,
     "dailyMinutesDown": {
       "2025-11-18": 149,
       "2026-02-14": 36,
@@ -317,8 +317,8 @@
     "time": 255,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 104,
-    "timeYear": 202,
+    "timeMonth": 97,
+    "timeYear": 201,
     "dailyMinutesDown": {
       "2025-11-18": 134,
       "2026-02-14": 36,
@@ -356,7 +356,7 @@
     "time": 233,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 153,
+    "timeMonth": 157,
     "timeYear": 233,
     "dailyMinutesDown": {
       "2025-10-05": 26,
