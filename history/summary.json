@@ -180,10 +180,10 @@
     "slug": "derkundschafter-de",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.77%",
+    "uptimeDay": "91.83%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.75%",
     "time": 702,
     "timeDay": 41,
     "timeWeek": 96,
@@ -215,7 +215,7 @@
       "2026-04-21": 64,
       "2026-05-23": 11,
       "2026-05-22": 11,
-      "2026-10-09": 1
+      "2026-10-09": 118
     }
   },
   {
